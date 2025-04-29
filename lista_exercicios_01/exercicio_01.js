@@ -11,5 +11,6 @@ function verificaParOuImpar(numero) {
   }
 }
 
+// Testando a função
 verificaParOuImpar(10);
 verificaParOuImpar(7);
