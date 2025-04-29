@@ -23,7 +23,5 @@ function calcularMedia(numeros) {
   for (let i = 0; i < numeros.length; i++) {
     total += numeros[i];
   }
-  console.log(total);
-  console.log(numeros.length);
   return total / numeros.length;
 }
