@@ -9,3 +9,25 @@ Este projeto foi feito para a Atividade 5 do bootcamp da MaisPraTi com intuito d
 ```
 VITE_API_KEY=sua_chave_api
 ```
+
+# 🧩 Como rodar o projeto
+
+Primeiramente, clone o repositório
+
+```
+git clone https://github.com/alvaromottadev/maisprati-bootcamp
+```
+
+Acesse o projeto "consumo-de-api"
+
+Instale as dependências
+
+```
+npm install
+```
+
+Rode o projeto
+
+```
+npm run dev
+```
